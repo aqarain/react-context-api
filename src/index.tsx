@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { App } from './App';
+// import { App } from './AppWithPropDrilling';
+// import { App } from './AppWithContextAPI';
+import { App } from './AppWithComposition';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
